@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Avishek Amin
 
-### 🚀 MERN Stack Developer | 💻 DSA Enthusiast | ☁️ Cloud & DevOps Explorer
+### 🚀 MERN Stack Developer | 💻 DSA in JAVA | ☁️ Cloud & DevOps Explorer
 
 ## 👨‍💻 About Me
 
