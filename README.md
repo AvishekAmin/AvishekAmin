@@ -90,13 +90,6 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AvishekAmin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AvishekAmin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvishekAmin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 # 🤝 Let's Build Something Awesome!
 
 Whether it's full stack web development, backend engineering, open-source collaboration or discussing new technologies, I'm always excited to connect with fellow developers and tech enthusiasts.
