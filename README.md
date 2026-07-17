@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Avishek Amin
 
-### 🚀 MERN Stack Developer | 💻 DSA in JAVA | ☁️ Cloud & DevOps Explorer
+### 🚀 MERN Stack Developer | 💻 DSA with JAVA | ☁️ Cloud & DevOps Explorer
 
 ---
 
@@ -24,7 +24,7 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 ---
 
 # 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=portfolio&logoColor=white)](https://portfolio-page-avishekamin.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishekamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekamin207@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22593876) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avishek.848276) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avishek.______) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avishek______)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=portfolio&logoColor=white)](https://avishekamin.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishekamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekamin207@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22593876) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avishek207) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avishek.______) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avishek______)
 
 ---
 
@@ -49,7 +49,7 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### ⚙️ Backend Development & Databases
+### ⚙️ Backend Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
