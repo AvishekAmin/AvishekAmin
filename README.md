@@ -24,7 +24,12 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 ---
 
 # 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=portfolio&logoColor=white)](https://avishekamin.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishekamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekamin207@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22593876) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avishek207) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avishek.______) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avishek______)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=portfolio&logoColor=white)](https://avishekamin.vercel.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishekamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekamin207@gmail.com) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22593876) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avishek207) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avishek.______) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avishek______)
 
 ---
 
@@ -80,11 +85,11 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 # 🚀 Featured Projects
 
-### 🏡 [Havenly](https://havenly-z7ym.onrender.com/listings)
+### 🏡 [Havenly](https://havenly-avishek.onrender.com/listings)
 
-> A full-stack travel and accommodation booking platform inspired by Airbnb, enabling users to discover, list, review, and manage properties with secure authentication and responsive user experience.
+> A full-stack travel and accommodation booking platform that provides an end-to-end experience for both travelers and property hosts — from  enabling users to discover, list, review, and manage properties with secure authentication. Travelers can search and explore properties, view detailed listings and interactive maps, select travel dates and guests, make secure payments through Razorpay, manage their bookings, cancel eligible reservations, receive booking confirmation emails, and download PDF booking receipts. Property hosts can create, edit, and manage listings, upload property images, manage reviews, and access a dedicated Host Dashboard that provides insights into total bookings, revenue, upcoming guests, completed stays, and recent reservations.
 
-**Tech Stack:** MongoDB, Express.js, Node.js, EJS, Bootstrap, Passport.js, Cloudinary
+**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose ODM, EJS, Bootstrap, Passport.js, Cloudinary, Mapbox, Razorpay, Nodemailer, PDFKit
 
 ---
 
