@@ -87,9 +87,15 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 ### 🏡 [Havenly](https://havenly-avishek.onrender.com/listings)
 
-> A full-stack travel and accommodation booking platform that provides an end-to-end experience for both travelers and property hosts — from  enabling users to discover, list, review, and manage properties with secure authentication. Travelers can search and explore properties, view detailed listings and interactive maps, select travel dates and guests, make secure payments through Razorpay, manage their bookings, cancel eligible reservations, receive booking confirmation emails, and download PDF booking receipts. Property hosts can create, edit, and manage listings, upload property images, manage reviews, and access a dedicated Host Dashboard that provides insights into total bookings, revenue, upcoming guests, completed stays, and recent reservations.
+> A full-stack travel and accommodation booking platform designed to provide a secure, reliable, and immersive hospitality experience for travelers and hosts. Havenly enables users to discover and filter properties across curated travel categories, explore destinations through interactive Mapbox maps, create and manage accommodation listings, publish ratings and reviews, and securely reserve stays with server-side availability validation and dynamic pricing. The platform features Passport.js-based authentication and authorization, MongoDB-backed rolling sessions, strict ownership and IDOR protection, host self-booking prevention, conflict-free reservation scheduling with two-phase availability verification, server-generated Razorpay orders with HMAC SHA-256 payment signature verification, automated asynchronous booking confirmation emails through Nodemailer, dynamically generated PDF invoices streamed with PDFKit, Cloudinary-powered image storage and transformations, MongoDB aggregation-based host revenue analytics and automatic booking status reconciliation.
 
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose ODM, EJS, Bootstrap, Passport.js, Cloudinary, Mapbox, Razorpay, Nodemailer, PDFKit
+**Tech Stack:** Node.js, Express.js 5, EJS, Bootstrap 5, MongoDB Atlas, Mongoose 9, Passport.js, Razorpay, Cloudinary, Mapbox GL JS, Nodemailer, PDFKit, Multer, Express Session, Connect-Mongo, Joi, JavaScript, HTML, CSS, Render.
+
+### 🎥 [Connekt](https://connekt-avishek.onrender.com)
+
+> A full-stack real-time video conferencing platform that provides a secure and reliable meeting experience — enabling authenticated users to join and manage meetings with real-time peer-to-peer audio and video communication. Users can join meetings through meeting codes or links, manage camera and microphone state, share their screens seamlessly, communicate through in-meeting chat, view participant identities and real-time media states, and access persistent meeting history. The platform features JWT-based authentication with rotating HTTP-only refresh tokens, refresh-token reuse detection, protected API routes, authenticated Socket.IO signaling, room-scoped communication, modern WebRTC with Perfect Negotiation and ICE candidate buffering, responsive meeting controls, and a futuristic dark interface.
+
+**Tech Stack:** React 19, Vite, Tailwind CSS v4, shadcn/ui, Lucide React, Node.js, Express.js 5, MongoDB, Mongoose, Socket.IO, WebRTC, JWT, bcrypt, Zod, Axios, Helmet, Express Rate Limit, Supertest, Render.
 
 ---
 
