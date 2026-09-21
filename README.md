@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Avishek Amin
 
-### 🚀 MERN Stack Developer | 💻 DSA with JAVA | ☁️ Cloud & DevOps Explorer
+### 💻 Java | 🚀 MERN Stack | ♾️ DevOps 
 
 ---
 
@@ -87,15 +87,21 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 ### 🏡 [Havenly](https://havenly-avishek.onrender.com/listings)
 
-> A full-stack travel and accommodation booking platform designed to provide a secure, reliable, and immersive hospitality experience for travelers and hosts. Havenly enables users to discover and filter properties across curated travel categories, explore destinations through interactive Mapbox maps, create and manage accommodation listings, publish ratings and reviews, and securely reserve stays with server-side availability validation and dynamic pricing. The platform features Passport.js-based authentication and authorization, MongoDB-backed rolling sessions, strict ownership and IDOR protection, host self-booking prevention, conflict-free reservation scheduling with two-phase availability verification, server-generated Razorpay orders with HMAC SHA-256 payment signature verification, automated asynchronous booking confirmation emails through Nodemailer, dynamically generated PDF invoices streamed with PDFKit, Cloudinary-powered image storage and transformations, MongoDB aggregation-based host revenue analytics and automatic booking status reconciliation.
+> A travel and accommodation booking platform designed to provide a secure, reliable, and immersive hospitality experience for travelers and hosts. Havenly enables users to discover and filter properties across curated travel categories, explore destinations through interactive Mapbox maps, create and manage accommodation listings, publish ratings and reviews, and securely reserve stays with server-side availability validation and dynamic pricing. The platform features Passport.js-based authentication and authorization, MongoDB-backed rolling sessions, strict ownership and IDOR protection, host self-booking prevention, conflict-free reservation scheduling with two-phase availability verification, server-generated Razorpay orders with HMAC SHA-256 payment signature verification, automated asynchronous booking confirmation emails through Nodemailer, dynamically generated PDF invoices streamed with PDFKit, Cloudinary-powered image storage and transformations, MongoDB aggregation-based host revenue analytics and automatic booking status reconciliation.
 
 **Tech Stack:** Node.js, Express.js 5, EJS, Bootstrap 5, MongoDB Atlas, Mongoose 9, Passport.js, Razorpay, Cloudinary, Mapbox GL JS, Nodemailer, PDFKit, Multer, Express Session, Connect-Mongo, Joi, JavaScript, HTML, CSS, Render.
 
 ### 🎥 [Connekt](https://connekt-avishek.onrender.com)
 
-> A full-stack real-time video conferencing platform that provides a secure and reliable meeting experience — enabling authenticated users to join and manage meetings with real-time peer-to-peer audio and video communication. Users can join meetings through meeting codes or links, manage camera and microphone state, share their screens seamlessly, communicate through in-meeting chat, view participant identities and real-time media states, and access persistent meeting history. The platform features JWT-based authentication with rotating HTTP-only refresh tokens, refresh-token reuse detection, protected API routes, authenticated Socket.IO signaling, room-scoped communication, modern WebRTC with Perfect Negotiation and ICE candidate buffering, responsive meeting controls, and a futuristic dark interface.
+> A real-time video conferencing platform that provides a secure and reliable meeting experience — enabling authenticated users to join and manage meetings with real-time peer-to-peer audio and video communication. Users can join meetings through meeting codes or links, manage camera and microphone state, share their screens seamlessly, communicate through in-meeting chat, view participant identities and real-time media states, and access persistent meeting history. The platform features JWT-based authentication with rotating HTTP-only refresh tokens, refresh-token reuse detection, protected API routes, authenticated Socket.IO signaling, room-scoped communication, modern WebRTC with Perfect Negotiation and ICE candidate buffering, responsive meeting controls, and a futuristic dark interface.
 
-**Tech Stack:** React 19, Vite, Tailwind CSS v4, shadcn/ui, Lucide React, Node.js, Express.js 5, MongoDB, Mongoose, Socket.IO, WebRTC, JWT, bcrypt, Zod, Axios, Helmet, Express Rate Limit, Supertest, Render.
+**Tech Stack:** React 19, Vite 8, Tailwind CSS v4, shadcn/ui, Lucide React, Node.js, Express.js 5, MongoDB, Mongoose, Socket.IO, WebRTC, JWT, bcrypt, Zod, Axios, Helmet, Express Rate Limit, Supertest, Render.
+
+### 💹 [Tradely](https://tradely-avishek.onrender.com)
+
+> A online stock trading platform designed to deliver a secure, real-time trading terminal experience with server-authoritative execution and institutional-style financial accounting. Tradely enables authenticated users to monitor simulated market prices in real time, manage watchlists and portfolios, execute Market, Limit, Stop-Market, Stop-Limit, Trailing Stop, OCO orders, track holdings, positions, realized/unrealized P&L, and manage virtual funds through Razorpay deposits and withdrawals. The platform features JWT-based authentication with HTTP-only cookies, strict multi-user data isolation, server-side price authority, Socket.IO-based real-time market and order events, idempotent Razorpay payment verification and webhook reconciliation using HMAC SHA-256, four-pillar cash accounting, persistent wallet transaction auditing, withdrawal cancellation, recovery workflows, production security hardening with Helmet, CORS controls, rate limiting, structured redacted logging, health/readiness probes, Docker multi-stage deployments, and GitHub Actions CI validation.
+
+**Tech Stack:** React 19, Vite 8, Tailwind CSS v4, shadcn/ui, Radix UI, Lucide React, Node.js 20+, Express.js 5, MongoDB Atlas, Mongoose 9, Socket.IO, JWT, bcrypt, Razorpay, Axios, Helmet, Chart.js, Docker, Nginx, GitHub Actions, Render.
 
 ---
 
